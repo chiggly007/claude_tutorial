@@ -11,3 +11,4 @@ All notable changes to this project are documented here.
 - Added native Claude Code runtime files: `CLAUDE.md`, `.claude/agents/`, and `.claude/commands/`
 - Updated lesson content to focus on Claude Code commands, memory, permissions, MCP, subagents, and custom commands
 - Updated testing guides and repo metadata to reflect Claude Code workflows
+- Triggered a post-migration metadata refresh after the history rewrite
