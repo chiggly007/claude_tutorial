@@ -1,0 +1,20 @@
+schema_version: "1"
+id: claude_tutorial
+name: claude_tutorial
+description: >
+  Interactive tutorial content for learning Claude Code through beginner
+  lessons and direct Q&A. Covers commands, permissions, memory, MCP,
+  subagents, and project commands.
+emoji: "🤖"
+codename: claude_tutorial
+category: specialist
+version: "2.0.0"
+tags: [learning, tutorial, beginner, claude-code, terminal]
+platforms: [claude-code]
+input_format: free-text
+links:
+  prd: agents/claude_tutorial.md
+  agent_file: agents/claude_tutorial.agent.md
+  skill_file: skills/claude_tutorial/SKILL.md
+license: MIT
+owner: chiggly007
